@@ -8,7 +8,7 @@ There are two major R scripts contained in this repository
 - simulation_study-main_final.R: The R scripts developed for the purpose of simulation study which aimed primarily to evaluate method performance over different sample sizes.
 
 ## Data
-Please note we have only included the simulated data in this repository. The application data may be obtained from the National Statistical Office, Cameroon.
+The methodology requires different layers of datasets from sanple survey data to geospatial covariates. The sample survey provides the population group structure of interest across some subpopulations. These are the number of people within the administrative unit belonging to each of the characteristics of interest (e.g., number of people aged '15 - 49' years old, number of people from the 'richer' households). Please note we have only included the simulated data in this repository. The application data may be obtained from the National Statistical Office, Cameroon.
 
 ## Using the jollofR package
 To facilitate the use of the methodology described in the paper, we have developed a user-friendly R package known as "JollofR version 0.3.0" which automatically disaggregates population estimates at both administrative uni and grid cell levels, along with the estimates of uncertainty. Please visit https://github.com/wpgp/jollofR to learn more about the "jollofR" package. 
