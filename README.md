@@ -4,7 +4,7 @@ We present a flexible model-based appraoch for disaggregating small area populat
 
 ## R scripts
 There are two major R scripts contained in this repository 
-- CMR_application_main_final.R: This includes the method application script which shows the step by step appraoch for the method implementation using datasets on Cameroon as a case study.
+- Application_main_final.R: This includes the method application script which shows the step by step appraoch for the method implementation using datasets on Cameroon as a case study.
 - simulation_study-main_final.R: The R scripts developed for the purpose of simulation study which aimed primarily to evaluate method performance over different sample sizes.
 
 ## Data
